@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bardia
+- 👋 Hello Code lover Fellow, I’m Bardia
 - 👀 A passionate JavaScript learner
 - 🌱 I’m currently learning Vanilla JavaScript & openCV.js
 - 😎 Love 2 make games with JS
