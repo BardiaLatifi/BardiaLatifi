@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5c8a5ad0e67e462",
+            "id": "20bbf421f76808cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub ReadMe.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub ReadMe.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub ReadMe.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub ReadMe.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,8 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5c8a5ad0e67e462",
+  "active": "20bbf421f76808cf",
   "lastOpenFiles": [
-    "GitHub ReadMe.md"
+    "README.md"
   ]
 }
