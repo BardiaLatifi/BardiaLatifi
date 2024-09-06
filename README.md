@@ -2,7 +2,7 @@
 
 ## I’m Bardia
 
-🎸 **Musician** | 🎥 **Photographer** | ⚙️ **Content Creator** | 🔧 **Silicon Steel Cutting Machine Operator
+🎸 **Musician** | 🎥 **Photographer** | ⚙️ **Content Creator** | 🔧 **Silicon Steel** Cutting Machine Operator
 
 With a bachelor's degree in Photography, I’ve ventured into multiple avenues of creativity and technical skill. Here’s a little about what I do:
 
